@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pngimg.com/d/jet_fighter_PNG44.png" width="140" />
+  <img src="https://vectorjungal.com/files/preview/1280x720/11722977868sjvbakayngc34vyy0ipqfyrchqkma5uh4jlrsrnt7ux2feuz7zjr6jawwpicr9lw46olufxefyegdrnata8hyvyptid0g78wyxxz.png" width="140" />
 </p>
 
 <h1 align="center">Jet Plane Aerodynamics Calculator</h1>
