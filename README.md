@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="140" />
+  <img src="https://pngimg.com/d/jet_fighter_PNG44.png" width="140" />
 </p>
 
 <h1 align="center">Jet Plane Aerodynamics Calculator</h1>
