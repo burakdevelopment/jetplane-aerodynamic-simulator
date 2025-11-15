@@ -50,4 +50,4 @@ g++ main.cpp -o jetcalc
 
 ## 👤 Author
 
-** Burak Akpınar (16/11/2025) **
+- Burak Akpınar (16/11/2025)
