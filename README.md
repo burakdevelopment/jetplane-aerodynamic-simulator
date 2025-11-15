@@ -34,7 +34,7 @@ A C++ program that calculates basic jet aircraft aerodynamics, including lift, d
 
 ## 🛠️ How to Run
 ```bash
-g++ main.cpp -o jetcalc
+g++ jetplanes.cpp -o jetcalc
 ./jetcalc
 ```
 ## 📥 Required Inputs
